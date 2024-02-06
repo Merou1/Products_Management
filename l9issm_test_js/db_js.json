@@ -1,0 +1,166 @@
+{
+  "gestion": [
+    {
+      "id": 1,
+      "ref": "c01",
+      "intitule": "pc",
+      "prix": 31
+    },
+    {
+      "id": 2,
+      "ref": "c02",
+      "intitule": "clavier",
+      "prix": 31
+    },
+    {
+      "id": "23c7",
+      "ref": "h",
+      "intitule": "h",
+      "prix": "55"
+    },
+    {
+      "id": "32c2",
+      "ref": "j",
+      "intitule": "h",
+      "prix": "44"
+    },
+    {
+      "id": "3a02",
+      "ref": "h",
+      "intitule": "h",
+      "prix": "22"
+    },
+    {
+      "id": "d77b",
+      "ref": "h",
+      "intitule": "g",
+      "prix": "33"
+    },
+    {
+      "id": "69ec",
+      "ref": "h",
+      "intitule": "h",
+      "prix": "33"
+    },
+    {
+      "id": "5de5",
+      "ref": "ff",
+      "intitule": "ff",
+      "prix": "12"
+    },
+    {
+      "id": "69fa",
+      "ref": "d",
+      "intitule": "d",
+      "prix": "10"
+    },
+    {
+      "id": "2f2c",
+      "ref": "ref",
+      "intitule": "intitule",
+      "prix": "200"
+    },
+    {
+      "id": "1e37",
+      "ref": "ref2",
+      "intitule": "intitule2",
+      "prix": "22"
+    },
+    {
+      "id": "c2bb",
+      "ref": "ref3",
+      "intitule": "intitule3",
+      "prix": "33"
+    },
+    {
+      "id": "a90c",
+      "ref": "ref4",
+      "intitule": "intitule4",
+      "prix": "44"
+    },
+    {
+      "id": "ab6a",
+      "ref": "ref5",
+      "intitule": "intitule5",
+      "prix": "55"
+    },
+    {
+      "id": "f02e",
+      "ref": "a",
+      "intitule": "a",
+      "prix": "2"
+    },
+    {
+      "id": "c15e",
+      "ref": "d",
+      "intitule": "d",
+      "prix": "1"
+    },
+    {
+      "id": "08c6",
+      "ref": "ref6",
+      "intitule": "intitule6",
+      "prix": "66"
+    },
+    {
+      "id": "ec7e",
+      "ref": "d",
+      "intitule": "d",
+      "prix": "6"
+    },
+    {
+      "id": "2b8f",
+      "ref": "ref7",
+      "intitule": "intitule7",
+      "prix": "77"
+    },
+    {
+      "id": "014e",
+      "ref": "d",
+      "intitule": "ddd",
+      "prix": "1111"
+    },
+    {
+      "id": "43b8",
+      "ref": "hh",
+      "intitule": "hh",
+      "prix": "77"
+    },
+    {
+      "id": "0648",
+      "ref": "f",
+      "intitule": "f",
+      "prix": "9"
+    },
+    {
+      "id": "ce20",
+      "ref": "dd",
+      "intitule": "dd",
+      "prix": "44"
+    },
+    {
+      "id": "ab69",
+      "ref": "dbakhfbshkdjfhjks",
+      "intitule": "sjdfhsjkfh",
+      "prix": "4723847293"
+    },
+    {
+      "id": "5e63",
+      "ref": "hi",
+      "intitule": "hii",
+      "prix": "8448"
+    },
+    {
+      "id": "fc91",
+      "ref": "jf",
+      "intitule": "ss",
+      "prix": "11"
+    },
+    {
+      "id": "ac18",
+      "ref": "cd",
+      "intitule": "d",
+      "prix": "2"
+    }
+  ]
+}
